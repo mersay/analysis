@@ -1,0 +1,8 @@
+{
+    "timestamp": "20250425_212815",
+    "accuracy": 0.08,
+    "model_type": "Multinomial Logistic Regression",
+    "solver": "lbfgs",
+    "max_iter": 500,
+    "target_variable": "place"
+}

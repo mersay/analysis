@@ -1,0 +1,854 @@
+runner_0_country_ARG
+runner_0_country_AUS
+runner_0_country_BRZ
+runner_0_country_CAN
+runner_0_country_CHI
+runner_0_country_FR
+runner_0_country_GB
+runner_0_country_GER
+runner_0_country_IRE
+runner_0_country_ITY
+runner_0_country_JPN
+runner_0_country_NZ
+runner_0_country_SAF
+runner_0_country_SPA
+runner_0_country_USA
+runner_0_colour_Bay
+runner_0_colour_Bay/Brown
+runner_0_colour_Bay/Grey
+runner_0_colour_Black
+runner_0_colour_Brown
+runner_0_colour_Brown/Grey
+runner_0_colour_Chestnut
+runner_0_colour_Dark Bay
+runner_0_colour_Dark Bay/Brown
+runner_0_colour_Grey
+runner_0_colour_Grey/Roan
+runner_0_colour_Roan
+runner_0_sex_Colt
+runner_0_sex_Filly
+runner_0_sex_Gelding
+runner_0_sex_Horse
+runner_0_sex_Mare
+runner_0_sex_Rig
+race_going_FAST
+race_going_GOOD
+race_going_GOOD TO FIRM
+race_going_GOOD TO YIELDING
+race_going_WET FAST
+race_going_WET SLOW
+race_going_YIELDING
+race_venue_HV
+race_venue_ST
+race_racecourse_A
+race_racecourse_A+3
+race_racecourse_B
+race_racecourse_B+2
+race_racecourse_C
+race_racecourse_C+3
+race_racecourse_Unknown
+race_racetrack_ALL WEATHER TRACK
+race_racetrack_TURF
+race_class_1
+race_class_2
+race_class_3
+race_class_4
+race_class_5
+race_class_GROUP
+race_class_RESTRICTED
+race_class_unknown
+race_distance
+race_money
+runner_1_country_ARG
+runner_1_country_AUS
+runner_1_country_BRZ
+runner_1_country_CAN
+runner_1_country_CHI
+runner_1_country_FR
+runner_1_country_GB
+runner_1_country_GER
+runner_1_country_IRE
+runner_1_country_ITY
+runner_1_country_JPN
+runner_1_country_NZ
+runner_1_country_SAF
+runner_1_country_SPA
+runner_1_country_USA
+runner_1_colour_Bay
+runner_1_colour_Bay/Brown
+runner_1_colour_Bay/Grey
+runner_1_colour_Black
+runner_1_colour_Brown
+runner_1_colour_Brown/Grey
+runner_1_colour_Chestnut
+runner_1_colour_Dark Bay
+runner_1_colour_Dark Bay/Brown
+runner_1_colour_Grey
+runner_1_colour_Grey/Roan
+runner_1_colour_Roan
+runner_1_sex_Colt
+runner_1_sex_Filly
+runner_1_sex_Gelding
+runner_1_sex_Horse
+runner_1_sex_Mare
+runner_1_sex_Rig
+race_going_FAST
+race_going_GOOD
+race_going_GOOD TO FIRM
+race_going_GOOD TO YIELDING
+race_going_WET FAST
+race_going_WET SLOW
+race_going_YIELDING
+race_venue_HV
+race_venue_ST
+race_racecourse_A
+race_racecourse_A+3
+race_racecourse_B
+race_racecourse_B+2
+race_racecourse_C
+race_racecourse_C+3
+race_racecourse_Unknown
+race_racetrack_ALL WEATHER TRACK
+race_racetrack_TURF
+race_class_1
+race_class_2
+race_class_3
+race_class_4
+race_class_5
+race_class_GROUP
+race_class_RESTRICTED
+race_class_unknown
+race_distance
+race_money
+runner_2_country_ARG
+runner_2_country_AUS
+runner_2_country_BRZ
+runner_2_country_CAN
+runner_2_country_CHI
+runner_2_country_FR
+runner_2_country_GB
+runner_2_country_GER
+runner_2_country_IRE
+runner_2_country_ITY
+runner_2_country_JPN
+runner_2_country_NZ
+runner_2_country_SAF
+runner_2_country_SPA
+runner_2_country_USA
+runner_2_colour_Bay
+runner_2_colour_Bay/Brown
+runner_2_colour_Bay/Grey
+runner_2_colour_Black
+runner_2_colour_Brown
+runner_2_colour_Brown/Grey
+runner_2_colour_Chestnut
+runner_2_colour_Dark Bay
+runner_2_colour_Dark Bay/Brown
+runner_2_colour_Grey
+runner_2_colour_Grey/Roan
+runner_2_colour_Roan
+runner_2_sex_Colt
+runner_2_sex_Filly
+runner_2_sex_Gelding
+runner_2_sex_Horse
+runner_2_sex_Mare
+runner_2_sex_Rig
+race_going_FAST
+race_going_GOOD
+race_going_GOOD TO FIRM
+race_going_GOOD TO YIELDING
+race_going_WET FAST
+race_going_WET SLOW
+race_going_YIELDING
+race_venue_HV
+race_venue_ST
+race_racecourse_A
+race_racecourse_A+3
+race_racecourse_B
+race_racecourse_B+2
+race_racecourse_C
+race_racecourse_C+3
+race_racecourse_Unknown
+race_racetrack_ALL WEATHER TRACK
+race_racetrack_TURF
+race_class_1
+race_class_2
+race_class_3
+race_class_4
+race_class_5
+race_class_GROUP
+race_class_RESTRICTED
+race_class_unknown
+race_distance
+race_money
+runner_3_country_ARG
+runner_3_country_AUS
+runner_3_country_BRZ
+runner_3_country_CAN
+runner_3_country_CHI
+runner_3_country_FR
+runner_3_country_GB
+runner_3_country_GER
+runner_3_country_IRE
+runner_3_country_ITY
+runner_3_country_JPN
+runner_3_country_NZ
+runner_3_country_SAF
+runner_3_country_SPA
+runner_3_country_USA
+runner_3_colour_Bay
+runner_3_colour_Bay/Brown
+runner_3_colour_Bay/Grey
+runner_3_colour_Black
+runner_3_colour_Brown
+runner_3_colour_Brown/Grey
+runner_3_colour_Chestnut
+runner_3_colour_Dark Bay
+runner_3_colour_Dark Bay/Brown
+runner_3_colour_Grey
+runner_3_colour_Grey/Roan
+runner_3_colour_Roan
+runner_3_sex_Colt
+runner_3_sex_Filly
+runner_3_sex_Gelding
+runner_3_sex_Horse
+runner_3_sex_Mare
+runner_3_sex_Rig
+race_going_FAST
+race_going_GOOD
+race_going_GOOD TO FIRM
+race_going_GOOD TO YIELDING
+race_going_WET FAST
+race_going_WET SLOW
+race_going_YIELDING
+race_venue_HV
+race_venue_ST
+race_racecourse_A
+race_racecourse_A+3
+race_racecourse_B
+race_racecourse_B+2
+race_racecourse_C
+race_racecourse_C+3
+race_racecourse_Unknown
+race_racetrack_ALL WEATHER TRACK
+race_racetrack_TURF
+race_class_1
+race_class_2
+race_class_3
+race_class_4
+race_class_5
+race_class_GROUP
+race_class_RESTRICTED
+race_class_unknown
+race_distance
+race_money
+runner_4_country_ARG
+runner_4_country_AUS
+runner_4_country_BRZ
+runner_4_country_CAN
+runner_4_country_CHI
+runner_4_country_FR
+runner_4_country_GB
+runner_4_country_GER
+runner_4_country_IRE
+runner_4_country_ITY
+runner_4_country_JPN
+runner_4_country_NZ
+runner_4_country_SAF
+runner_4_country_SPA
+runner_4_country_USA
+runner_4_colour_Bay
+runner_4_colour_Bay/Brown
+runner_4_colour_Bay/Grey
+runner_4_colour_Black
+runner_4_colour_Brown
+runner_4_colour_Brown/Grey
+runner_4_colour_Chestnut
+runner_4_colour_Dark Bay
+runner_4_colour_Dark Bay/Brown
+runner_4_colour_Grey
+runner_4_colour_Grey/Roan
+runner_4_colour_Roan
+runner_4_sex_Colt
+runner_4_sex_Filly
+runner_4_sex_Gelding
+runner_4_sex_Horse
+runner_4_sex_Mare
+runner_4_sex_Rig
+race_going_FAST
+race_going_GOOD
+race_going_GOOD TO FIRM
+race_going_GOOD TO YIELDING
+race_going_WET FAST
+race_going_WET SLOW
+race_going_YIELDING
+race_venue_HV
+race_venue_ST
+race_racecourse_A
+race_racecourse_A+3
+race_racecourse_B
+race_racecourse_B+2
+race_racecourse_C
+race_racecourse_C+3
+race_racecourse_Unknown
+race_racetrack_ALL WEATHER TRACK
+race_racetrack_TURF
+race_class_1
+race_class_2
+race_class_3
+race_class_4
+race_class_5
+race_class_GROUP
+race_class_RESTRICTED
+race_class_unknown
+race_distance
+race_money
+runner_5_country_ARG
+runner_5_country_AUS
+runner_5_country_BRZ
+runner_5_country_CAN
+runner_5_country_CHI
+runner_5_country_FR
+runner_5_country_GB
+runner_5_country_GER
+runner_5_country_IRE
+runner_5_country_ITY
+runner_5_country_JPN
+runner_5_country_NZ
+runner_5_country_SAF
+runner_5_country_SPA
+runner_5_country_USA
+runner_5_colour_Bay
+runner_5_colour_Bay/Brown
+runner_5_colour_Bay/Grey
+runner_5_colour_Black
+runner_5_colour_Brown
+runner_5_colour_Brown/Grey
+runner_5_colour_Chestnut
+runner_5_colour_Dark Bay
+runner_5_colour_Dark Bay/Brown
+runner_5_colour_Grey
+runner_5_colour_Grey/Roan
+runner_5_colour_Roan
+runner_5_sex_Colt
+runner_5_sex_Filly
+runner_5_sex_Gelding
+runner_5_sex_Horse
+runner_5_sex_Mare
+runner_5_sex_Rig
+race_going_FAST
+race_going_GOOD
+race_going_GOOD TO FIRM
+race_going_GOOD TO YIELDING
+race_going_WET FAST
+race_going_WET SLOW
+race_going_YIELDING
+race_venue_HV
+race_venue_ST
+race_racecourse_A
+race_racecourse_A+3
+race_racecourse_B
+race_racecourse_B+2
+race_racecourse_C
+race_racecourse_C+3
+race_racecourse_Unknown
+race_racetrack_ALL WEATHER TRACK
+race_racetrack_TURF
+race_class_1
+race_class_2
+race_class_3
+race_class_4
+race_class_5
+race_class_GROUP
+race_class_RESTRICTED
+race_class_unknown
+race_distance
+race_money
+runner_6_country_ARG
+runner_6_country_AUS
+runner_6_country_BRZ
+runner_6_country_CAN
+runner_6_country_CHI
+runner_6_country_FR
+runner_6_country_GB
+runner_6_country_GER
+runner_6_country_IRE
+runner_6_country_ITY
+runner_6_country_JPN
+runner_6_country_NZ
+runner_6_country_SAF
+runner_6_country_SPA
+runner_6_country_USA
+runner_6_colour_Bay
+runner_6_colour_Bay/Brown
+runner_6_colour_Bay/Grey
+runner_6_colour_Black
+runner_6_colour_Brown
+runner_6_colour_Brown/Grey
+runner_6_colour_Chestnut
+runner_6_colour_Dark Bay
+runner_6_colour_Dark Bay/Brown
+runner_6_colour_Grey
+runner_6_colour_Grey/Roan
+runner_6_colour_Roan
+runner_6_sex_Colt
+runner_6_sex_Filly
+runner_6_sex_Gelding
+runner_6_sex_Horse
+runner_6_sex_Mare
+runner_6_sex_Rig
+race_going_FAST
+race_going_GOOD
+race_going_GOOD TO FIRM
+race_going_GOOD TO YIELDING
+race_going_WET FAST
+race_going_WET SLOW
+race_going_YIELDING
+race_venue_HV
+race_venue_ST
+race_racecourse_A
+race_racecourse_A+3
+race_racecourse_B
+race_racecourse_B+2
+race_racecourse_C
+race_racecourse_C+3
+race_racecourse_Unknown
+race_racetrack_ALL WEATHER TRACK
+race_racetrack_TURF
+race_class_1
+race_class_2
+race_class_3
+race_class_4
+race_class_5
+race_class_GROUP
+race_class_RESTRICTED
+race_class_unknown
+race_distance
+race_money
+runner_7_country_ARG
+runner_7_country_AUS
+runner_7_country_BRZ
+runner_7_country_CAN
+runner_7_country_CHI
+runner_7_country_FR
+runner_7_country_GB
+runner_7_country_GER
+runner_7_country_IRE
+runner_7_country_ITY
+runner_7_country_JPN
+runner_7_country_NZ
+runner_7_country_SAF
+runner_7_country_SPA
+runner_7_country_USA
+runner_7_colour_Bay
+runner_7_colour_Bay/Brown
+runner_7_colour_Bay/Grey
+runner_7_colour_Black
+runner_7_colour_Brown
+runner_7_colour_Brown/Grey
+runner_7_colour_Chestnut
+runner_7_colour_Dark Bay
+runner_7_colour_Dark Bay/Brown
+runner_7_colour_Grey
+runner_7_colour_Grey/Roan
+runner_7_colour_Roan
+runner_7_sex_Colt
+runner_7_sex_Filly
+runner_7_sex_Gelding
+runner_7_sex_Horse
+runner_7_sex_Mare
+runner_7_sex_Rig
+race_going_FAST
+race_going_GOOD
+race_going_GOOD TO FIRM
+race_going_GOOD TO YIELDING
+race_going_WET FAST
+race_going_WET SLOW
+race_going_YIELDING
+race_venue_HV
+race_venue_ST
+race_racecourse_A
+race_racecourse_A+3
+race_racecourse_B
+race_racecourse_B+2
+race_racecourse_C
+race_racecourse_C+3
+race_racecourse_Unknown
+race_racetrack_ALL WEATHER TRACK
+race_racetrack_TURF
+race_class_1
+race_class_2
+race_class_3
+race_class_4
+race_class_5
+race_class_GROUP
+race_class_RESTRICTED
+race_class_unknown
+race_distance
+race_money
+runner_8_country_ARG
+runner_8_country_AUS
+runner_8_country_BRZ
+runner_8_country_CAN
+runner_8_country_CHI
+runner_8_country_FR
+runner_8_country_GB
+runner_8_country_GER
+runner_8_country_IRE
+runner_8_country_ITY
+runner_8_country_JPN
+runner_8_country_NZ
+runner_8_country_SAF
+runner_8_country_SPA
+runner_8_country_USA
+runner_8_colour_Bay
+runner_8_colour_Bay/Brown
+runner_8_colour_Bay/Grey
+runner_8_colour_Black
+runner_8_colour_Brown
+runner_8_colour_Brown/Grey
+runner_8_colour_Chestnut
+runner_8_colour_Dark Bay
+runner_8_colour_Dark Bay/Brown
+runner_8_colour_Grey
+runner_8_colour_Grey/Roan
+runner_8_colour_Roan
+runner_8_sex_Colt
+runner_8_sex_Filly
+runner_8_sex_Gelding
+runner_8_sex_Horse
+runner_8_sex_Mare
+runner_8_sex_Rig
+race_going_FAST
+race_going_GOOD
+race_going_GOOD TO FIRM
+race_going_GOOD TO YIELDING
+race_going_WET FAST
+race_going_WET SLOW
+race_going_YIELDING
+race_venue_HV
+race_venue_ST
+race_racecourse_A
+race_racecourse_A+3
+race_racecourse_B
+race_racecourse_B+2
+race_racecourse_C
+race_racecourse_C+3
+race_racecourse_Unknown
+race_racetrack_ALL WEATHER TRACK
+race_racetrack_TURF
+race_class_1
+race_class_2
+race_class_3
+race_class_4
+race_class_5
+race_class_GROUP
+race_class_RESTRICTED
+race_class_unknown
+race_distance
+race_money
+runner_9_country_ARG
+runner_9_country_AUS
+runner_9_country_BRZ
+runner_9_country_CAN
+runner_9_country_CHI
+runner_9_country_FR
+runner_9_country_GB
+runner_9_country_GER
+runner_9_country_IRE
+runner_9_country_ITY
+runner_9_country_JPN
+runner_9_country_NZ
+runner_9_country_SAF
+runner_9_country_SPA
+runner_9_country_USA
+runner_9_colour_Bay
+runner_9_colour_Bay/Brown
+runner_9_colour_Bay/Grey
+runner_9_colour_Black
+runner_9_colour_Brown
+runner_9_colour_Brown/Grey
+runner_9_colour_Chestnut
+runner_9_colour_Dark Bay
+runner_9_colour_Dark Bay/Brown
+runner_9_colour_Grey
+runner_9_colour_Grey/Roan
+runner_9_colour_Roan
+runner_9_sex_Colt
+runner_9_sex_Filly
+runner_9_sex_Gelding
+runner_9_sex_Horse
+runner_9_sex_Mare
+runner_9_sex_Rig
+race_going_FAST
+race_going_GOOD
+race_going_GOOD TO FIRM
+race_going_GOOD TO YIELDING
+race_going_WET FAST
+race_going_WET SLOW
+race_going_YIELDING
+race_venue_HV
+race_venue_ST
+race_racecourse_A
+race_racecourse_A+3
+race_racecourse_B
+race_racecourse_B+2
+race_racecourse_C
+race_racecourse_C+3
+race_racecourse_Unknown
+race_racetrack_ALL WEATHER TRACK
+race_racetrack_TURF
+race_class_1
+race_class_2
+race_class_3
+race_class_4
+race_class_5
+race_class_GROUP
+race_class_RESTRICTED
+race_class_unknown
+race_distance
+race_money
+runner_10_country_ARG
+runner_10_country_AUS
+runner_10_country_BRZ
+runner_10_country_CAN
+runner_10_country_CHI
+runner_10_country_FR
+runner_10_country_GB
+runner_10_country_GER
+runner_10_country_IRE
+runner_10_country_ITY
+runner_10_country_JPN
+runner_10_country_NZ
+runner_10_country_SAF
+runner_10_country_SPA
+runner_10_country_USA
+runner_10_colour_Bay
+runner_10_colour_Bay/Brown
+runner_10_colour_Bay/Grey
+runner_10_colour_Black
+runner_10_colour_Brown
+runner_10_colour_Brown/Grey
+runner_10_colour_Chestnut
+runner_10_colour_Dark Bay
+runner_10_colour_Dark Bay/Brown
+runner_10_colour_Grey
+runner_10_colour_Grey/Roan
+runner_10_colour_Roan
+runner_10_sex_Colt
+runner_10_sex_Filly
+runner_10_sex_Gelding
+runner_10_sex_Horse
+runner_10_sex_Mare
+runner_10_sex_Rig
+race_going_FAST
+race_going_GOOD
+race_going_GOOD TO FIRM
+race_going_GOOD TO YIELDING
+race_going_WET FAST
+race_going_WET SLOW
+race_going_YIELDING
+race_venue_HV
+race_venue_ST
+race_racecourse_A
+race_racecourse_A+3
+race_racecourse_B
+race_racecourse_B+2
+race_racecourse_C
+race_racecourse_C+3
+race_racecourse_Unknown
+race_racetrack_ALL WEATHER TRACK
+race_racetrack_TURF
+race_class_1
+race_class_2
+race_class_3
+race_class_4
+race_class_5
+race_class_GROUP
+race_class_RESTRICTED
+race_class_unknown
+race_distance
+race_money
+runner_11_country_ARG
+runner_11_country_AUS
+runner_11_country_BRZ
+runner_11_country_CAN
+runner_11_country_CHI
+runner_11_country_FR
+runner_11_country_GB
+runner_11_country_GER
+runner_11_country_IRE
+runner_11_country_ITY
+runner_11_country_JPN
+runner_11_country_NZ
+runner_11_country_SAF
+runner_11_country_SPA
+runner_11_country_USA
+runner_11_colour_Bay
+runner_11_colour_Bay/Brown
+runner_11_colour_Bay/Grey
+runner_11_colour_Black
+runner_11_colour_Brown
+runner_11_colour_Brown/Grey
+runner_11_colour_Chestnut
+runner_11_colour_Dark Bay
+runner_11_colour_Dark Bay/Brown
+runner_11_colour_Grey
+runner_11_colour_Grey/Roan
+runner_11_colour_Roan
+runner_11_sex_Colt
+runner_11_sex_Filly
+runner_11_sex_Gelding
+runner_11_sex_Horse
+runner_11_sex_Mare
+runner_11_sex_Rig
+race_going_FAST
+race_going_GOOD
+race_going_GOOD TO FIRM
+race_going_GOOD TO YIELDING
+race_going_WET FAST
+race_going_WET SLOW
+race_going_YIELDING
+race_venue_HV
+race_venue_ST
+race_racecourse_A
+race_racecourse_A+3
+race_racecourse_B
+race_racecourse_B+2
+race_racecourse_C
+race_racecourse_C+3
+race_racecourse_Unknown
+race_racetrack_ALL WEATHER TRACK
+race_racetrack_TURF
+race_class_1
+race_class_2
+race_class_3
+race_class_4
+race_class_5
+race_class_GROUP
+race_class_RESTRICTED
+race_class_unknown
+race_distance
+race_money
+runner_12_country_ARG
+runner_12_country_AUS
+runner_12_country_BRZ
+runner_12_country_CAN
+runner_12_country_CHI
+runner_12_country_FR
+runner_12_country_GB
+runner_12_country_GER
+runner_12_country_IRE
+runner_12_country_ITY
+runner_12_country_JPN
+runner_12_country_NZ
+runner_12_country_SAF
+runner_12_country_SPA
+runner_12_country_USA
+runner_12_colour_Bay
+runner_12_colour_Bay/Brown
+runner_12_colour_Bay/Grey
+runner_12_colour_Black
+runner_12_colour_Brown
+runner_12_colour_Brown/Grey
+runner_12_colour_Chestnut
+runner_12_colour_Dark Bay
+runner_12_colour_Dark Bay/Brown
+runner_12_colour_Grey
+runner_12_colour_Grey/Roan
+runner_12_colour_Roan
+runner_12_sex_Colt
+runner_12_sex_Filly
+runner_12_sex_Gelding
+runner_12_sex_Horse
+runner_12_sex_Mare
+runner_12_sex_Rig
+race_going_FAST
+race_going_GOOD
+race_going_GOOD TO FIRM
+race_going_GOOD TO YIELDING
+race_going_WET FAST
+race_going_WET SLOW
+race_going_YIELDING
+race_venue_HV
+race_venue_ST
+race_racecourse_A
+race_racecourse_A+3
+race_racecourse_B
+race_racecourse_B+2
+race_racecourse_C
+race_racecourse_C+3
+race_racecourse_Unknown
+race_racetrack_ALL WEATHER TRACK
+race_racetrack_TURF
+race_class_1
+race_class_2
+race_class_3
+race_class_4
+race_class_5
+race_class_GROUP
+race_class_RESTRICTED
+race_class_unknown
+race_distance
+race_money
+runner_13_country_ARG
+runner_13_country_AUS
+runner_13_country_BRZ
+runner_13_country_CAN
+runner_13_country_CHI
+runner_13_country_FR
+runner_13_country_GB
+runner_13_country_GER
+runner_13_country_IRE
+runner_13_country_ITY
+runner_13_country_JPN
+runner_13_country_NZ
+runner_13_country_SAF
+runner_13_country_SPA
+runner_13_country_USA
+runner_13_colour_Bay
+runner_13_colour_Bay/Brown
+runner_13_colour_Bay/Grey
+runner_13_colour_Black
+runner_13_colour_Brown
+runner_13_colour_Brown/Grey
+runner_13_colour_Chestnut
+runner_13_colour_Dark Bay
+runner_13_colour_Dark Bay/Brown
+runner_13_colour_Grey
+runner_13_colour_Grey/Roan
+runner_13_colour_Roan
+runner_13_sex_Colt
+runner_13_sex_Filly
+runner_13_sex_Gelding
+runner_13_sex_Horse
+runner_13_sex_Mare
+runner_13_sex_Rig
+race_going_FAST
+race_going_GOOD
+race_going_GOOD TO FIRM
+race_going_GOOD TO YIELDING
+race_going_WET FAST
+race_going_WET SLOW
+race_going_YIELDING
+race_venue_HV
+race_venue_ST
+race_racecourse_A
+race_racecourse_A+3
+race_racecourse_B
+race_racecourse_B+2
+race_racecourse_C
+race_racecourse_C+3
+race_racecourse_Unknown
+race_racetrack_ALL WEATHER TRACK
+race_racetrack_TURF
+race_class_1
+race_class_2
+race_class_3
+race_class_4
+race_class_5
+race_class_GROUP
+race_class_RESTRICTED
+race_class_unknown
+race_distance
+race_money

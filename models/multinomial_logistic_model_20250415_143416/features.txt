@@ -1,0 +1,50 @@
+distance
+handicapWeight
+horseWeight
+draw
+odds
+lifeWin
+daysSinceLastRace
+newDist
+jocWinCount
+jocWinPercent
+jocMisData
+avesprat
+avglbw
+age
+AGEMISDATA
+drawBiasScore
+daysSinceLastWorkout
+WOMISDATA
+winRate
+placeRate
+racecourse_A+3
+racecourse_B
+racecourse_B+2
+racecourse_C
+racecourse_C+3
+racecourse_Unknown
+racecourse_nan
+venue_ST
+venue_nan
+racetrack_TURF
+racetrack_nan
+going_GOOD
+going_GOOD TO FIRM
+going_GOOD TO YIELDING
+going_WET FAST
+going_WET SLOW
+going_YIELDING
+going_nan
+class_2
+class_3
+class_4
+class_5
+class_GROUP
+class_RESTRICTED
+class_nan
+sex_Gelding
+sex_Horse
+sex_Mare
+sex_Rig
+sex_nan

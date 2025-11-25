@@ -1,0 +1,54 @@
+money
+handicapWeight
+horseWeight
+draw
+speedRating
+daysSinceLastRace
+jocWinPercent
+jocMisData
+trainerWinCount
+trainerWinPercent
+trainerMisData
+avglbw
+age
+AGEMISDATA
+drawBiasScore
+goingBias
+raceCount
+venue_ST_ALL WEATHER TRACK
+venue_ST_TURF
+venue_HV_ALL WEATHER TRACK
+venue_HV_TURF
+venue_CH_ALL WEATHER TRACK
+venue_CH_TURF
+going_FAST
+going_GOOD
+going_GOOD TO FIRM
+going_GOOD TO YIELDING
+going_HEAVY
+going_SEALED
+going_SLOW
+going_SOFT
+going_WET FAST
+going_WET SLOW
+going_YIELDING
+going_YIELDING TO SOFT
+class_1
+class_2
+class_3
+class_4
+class_5
+class_4YO
+class_GRIFFIN
+class_GROUP
+class_RESTRICTED
+class_UNDEFINED
+racecourse_A
+racecourse_A+3
+racecourse_B
+racecourse_B+2
+racecourse_C
+racecourse_C+3
+racecourse_UNDEFINED
+distanceScaled
+isDummy

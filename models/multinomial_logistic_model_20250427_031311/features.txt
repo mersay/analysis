@@ -1,0 +1,47 @@
+runner_date
+runner_race
+runner_place
+runner_handicapWeight
+runner_horseWeight
+runner_odds
+runner_raceCount
+runner_speedRating
+runner_daysSinceLastRace
+runner_jocWinPercent
+runner_jocMisData
+runner_trainerWinPercent
+runner_trainerMisData
+runner_avglbw
+runner_age
+runner_AGEMISDATA
+runner_drawBiasScore
+runner_goingBias
+runner_sex_unknown
+runner_country_unknown
+runner_colour_unknown
+race_going_FAST
+race_going_GOOD
+race_going_GOOD TO FIRM
+race_going_GOOD TO YIELDING
+race_going_WET SLOW
+race_venue_HV
+race_venue_ST
+race_racecourse_A
+race_racecourse_A+3
+race_racecourse_B
+race_racecourse_B+2
+race_racecourse_C
+race_racecourse_C+3
+race_racecourse_Unknown
+race_racetrack_ALL WEATHER TRACK
+race_racetrack_TURF
+race_class_1
+race_class_2
+race_class_3
+race_class_4
+race_class_5
+race_class_GRIFFIN
+race_class_GROUP
+race_class_RESTRICTED
+race_distance
+race_money
